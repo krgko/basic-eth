@@ -38,7 +38,7 @@ cd ..
 ./bin/ganache
 ```
 
-Then click `quickstart`. For API need to setting up truffle-metacoin by
+Then click `quickstart`. For API need to setting up truffle-metacoin at mwtacoin/truffle-config.js
 
 ```javascript
 module.exports = {
