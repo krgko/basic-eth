@@ -221,3 +221,9 @@ balance.toNumber() # return as eth.00 such as 100.00 -> 10000
 ```
 
 Try other case by follow [getting-started](https://www.trufflesuite.com/docs/truffle/getting-started/interacting-with-your-contracts)
+
+## Send ether using metamash over ganache
+
+Copy private key on account list `key icon` then import to metamask.
+
+Transfer eth using UI
