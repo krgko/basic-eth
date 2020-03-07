@@ -217,6 +217,7 @@ Copy this to console
 let instance = await MetaCoin.deployed()
 let accounts = await web3.eth.getAccounts()
 let balance = await instance.getBalance(accounts[0])
-balance.toNumber() # return as eth.00 such as 100.00 -> 10000```
+balance.toNumber() # return as eth.00 such as 100.00 -> 10000
+```
 
 Try other case by follow [getting-started](https://www.trufflesuite.com/docs/truffle/getting-started/interacting-with-your-contracts)
