@@ -70,7 +70,7 @@ Remove extension and reinstall
 
 ## Testing smart contract
 
-Dont forget to setting port by `settings > server > change port number to 8545`
+Dont forget to setting port by `settings (gear icon) > server > change port number to 8545`
 
 ```bash
 cd metacoin

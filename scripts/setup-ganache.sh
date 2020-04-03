@@ -6,5 +6,5 @@ if [ ! -z "../bin/ganache" ]; then
     chmod a+x ../bin/ganache
 fi
 
-echo "To start ganache. Try ./start-ganache.sh"
+echo "To start ganache. Go to ../bin then ./ganache"
 echo "Done !!!"
